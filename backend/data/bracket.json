@@ -1,0 +1,42 @@
+{
+  "East": [
+    ["Duke", "Siena"],
+    ["Ohio State", "TCU"],
+    ["St. John's", "Northern Iowa"],
+    ["Kansas", "Cal Baptist"],
+    ["Louisville", "South Florida"],
+    ["Michigan State", "N. Dakota St."],
+    ["UCLA", "UCF"],
+    ["UConn", "Furman"]
+  ],
+  "West": [
+    ["Arizona", "Long Island"],
+    ["Villanova", "Utah State"],
+    ["Wisconsin", "High Point"],
+    ["Arkansas", "Hawaii"],
+    ["BYU", "Texas"],
+    ["Gonzaga", "Kennesaw St."],
+    ["Miami FL", "Missouri"],
+    ["Purdue", "Queens"]
+  ],
+  "Midwest": [
+    ["Michigan", "UMBC"],
+    ["Georgia", "Saint Louis"],
+    ["Texas Tech", "Akron"],
+    ["Alabama", "Hofstra"],
+    ["Tennessee", "SMU"],
+    ["Virginia", "Wright State"],
+    ["Kentucky", "Santa Clara"],
+    ["Iowa State", "Tennessee St."]
+  ],
+  "South": [
+    ["Florida", "Lehigh"],
+    ["Clemson", "Iowa"],
+    ["Vanderbilt", "McNeese St."],
+    ["Nebraska", "Troy"],
+    ["North Carolina", "VCU"],
+    ["Illinois", "Penn"],
+    ["Saint Mary's", "Texas A&M"],
+    ["Houston", "Idaho"]
+  ]
+}

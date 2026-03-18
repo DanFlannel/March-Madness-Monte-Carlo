@@ -1,0 +1,50 @@
+{
+  "Duke": {
+    "team": "Duke",
+    "factor": 0.92,
+    "note": "Caleb Foster out (foot fracture), Ngongba questionable. 7-man rotation.",
+    "adj_type": "injury"
+  },
+  "Texas Tech": {
+    "team": "Texas Tech",
+    "factor": 0.82,
+    "note": "JT Toppin torn ACL, lost 3 straight, now a jump-shooting team.",
+    "adj_type": "injury"
+  },
+  "Kentucky": {
+    "team": "Kentucky",
+    "factor": 0.90,
+    "note": "Quaintance doubtful (knee, 4 games all season), lost 5 of last 7 regular season games.",
+    "adj_type": "form"
+  },
+  "North Carolina": {
+    "team": "North Carolina",
+    "factor": 0.90,
+    "note": "Caleb Wilson out for season (broken thumb). Missing All-ACC first-team selection.",
+    "adj_type": "injury"
+  },
+  "BYU": {
+    "team": "BYU",
+    "factor": 0.93,
+    "note": "Richie Saunders out. AJ Dybantsa must carry heavier load.",
+    "adj_type": "injury"
+  },
+  "UCLA": {
+    "team": "UCLA",
+    "factor": 0.94,
+    "note": "Bilodeau (knee) and Dent (calf) banged up from Big Ten tournament.",
+    "adj_type": "injury"
+  },
+  "UConn": {
+    "team": "UConn",
+    "factor": 0.95,
+    "note": "Lost last 2 games including 20-pt blowout in Big East final. Cold entering tourney.",
+    "adj_type": "form"
+  },
+  "Clemson": {
+    "team": "Clemson",
+    "factor": 0.95,
+    "note": "Starting lineup injury concern entering tournament.",
+    "adj_type": "injury"
+  }
+}
